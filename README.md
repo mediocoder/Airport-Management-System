@@ -9,12 +9,12 @@
 * A clinical attitude should prevail during an evaluation of technical feasibility. The considerations normally attached with the technical feasibility: 
 ## Economical Feasibility: 
 * An evaluation of development cost weighed against the ultimate income or benefit derived from the development system or product. It includes a broad range of concerns such as:
-** Cost-benefit Analysis
-* Long-term corporate income strategies
-* Impact on other profits/products
-* Cost of resources needed for development
-* Potential market growth
-* The work being done is economically feasible since the work is not being done at a very large scale, although it might be a bit complex. The cost of resources needed to do the work would not be big. The whole task could be completed by a single resource in a given time. 
+- Cost-benefit Analysis
+- Long-term corporate income strategies
+- Impact on other profits/products
+- Cost of resources needed for development
+- Potential market growth
+- The work being done is economically feasible since the work is not being done at a very large scale, although it might be a bit complex. The cost of resources needed to do the work would not be big. The whole task could be completed by a single resource in a given time. 
 
 ## Business Rule:
 * One Airplane Company can have 0 or more airplanes
